@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-shared-configuration>
+    <properties xmlns="http://www.netbeans.org/ns/maven-properties-data/1">
+        <netbeans.hint.license>gpl30</netbeans.hint.license>
+        <netbeans.compile.on.save>app</netbeans.compile.on.save>
+        <org-netbeans-modules-projectapi.jsf_2e_language>Facelets</org-netbeans-modules-projectapi.jsf_2e_language>
+    </properties>
+</project-shared-configuration>
